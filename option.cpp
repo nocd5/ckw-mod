@@ -943,6 +943,7 @@ ckOpt::ckOpt()
 	m_isIconic = false;
 	m_fontSize = 14;
 	m_fontSpace = 0;
+	m_font= "MS Gothic";
 	m_colors[0]  = RGB(0x00, 0x00, 0x01);
 	m_colors[1]  = RGB(0x00, 0x00, 0x80);
 	m_colors[2]  = RGB(0x00, 0x80, 0x00);
